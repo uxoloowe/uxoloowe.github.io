@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxoloowe.github.io/sitemap_index.uxoloowe
